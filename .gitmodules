@@ -1,0 +1,9 @@
+[submodule "3Dmodel"]
+	path = 3Dmodel
+	url = https://github.com/sktometometo/HACKberrySizeS_Mech.git
+[submodule "Circuit"]
+	path = Circuit
+	url = https://github.com/sktometometo/HACKberrySizeS_Circuit.git
+[submodule "Software"]
+	path = Software
+	url = https://github.com/sktometometo/HACKberrySizeS_Software.git
